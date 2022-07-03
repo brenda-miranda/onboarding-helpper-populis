@@ -1,4 +1,4 @@
-# Onboarding Squads Tesla, Hopper e Ada Lovelace 🚀
+<h1 align="center"> Onboarding Squads Tesla, Hopper e Ada Lovelace 🚀</h1>
 
 ## ✨ O que é?
 Repositório para resolução de exercícios propostos aos candidatos durante o período de onboarding do projeto.
